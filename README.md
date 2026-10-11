@@ -84,4 +84,4 @@ pytest tests -v
 
 ## 📄 License
 
-Distributed under the **MIT License**. Created by **Dmitriy Donskoy**.
+Distributed under the **MIT License**. Created by **Dmytro Donskyi**.
